@@ -1,8 +1,1 @@
-Konichiwa
-
-
-U checkout from master
-make some changes to branch files 
-then git merge master - already up to date as no changes are made to master after that 
-    - Won't show conflict even when the contents are different 
-    - Will show conflict when branch is merged with master - git merge branch
+Hello!
